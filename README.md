@@ -6,7 +6,7 @@
 <hr/>
 <img src="Captures/soapui1.PNG">
 <hr/>
-<img src="Captures/oapui2.PNG">
+<img src="Captures/soapui2.PNG">
 <hr/>
 <img src="Captures/soapui3.PNG">
 <hr/>
