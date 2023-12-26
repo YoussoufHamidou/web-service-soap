@@ -1,12 +1,12 @@
 <h4>Activité pratique Web service SOAP WSDL UDDl</h4>
 
-<img src="Captures/webservice1.png">
+<img src="Captures/webservice1.PNG">
 <hr/>
-<img src="Captures/webservice2.png">
+<img src="Captures/webservice2.PNG">
 <hr/>
-<img src="Captures/soapui1.png">
+<img src="Captures/soapui1.PNG">
 <hr/>
-<img src="Captures/oapui2.png">
+<img src="Captures/oapui2.PNG">
 <hr/>
-<img src="Captures/soapui3.png">
+<img src="Captures/soapui3.PNG">
 <hr/>
